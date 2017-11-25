@@ -322,7 +322,7 @@ GameObject:
   - component: {fileID: 528678195}
   - component: {fileID: 528678194}
   m_Layer: 5
-  m_Name: Thanks
+  m_Name: Welcome
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -792,7 +792,7 @@ GameObject:
   - component: {fileID: 2084179804}
   - component: {fileID: 2084179803}
   m_Layer: 5
-  m_Name: MadeBy
+  m_Name: NameOfGame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -848,7 +848,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: cube game
+  m_Text: Cube Game 3000
 --- !u!222 &2084179804
 CanvasRenderer:
   m_ObjectHideFlags: 0
