@@ -30,6 +30,11 @@ public class PlayerMovement : MonoBehaviour {
 		{
 			moveLeft = false;
 		}
+
+		if (rb.position.y < -1f)
+		{
+			FindObjectOfType<GameManager>().EndGame();
+		}
 	}
 
 	// Update is called once per frame
